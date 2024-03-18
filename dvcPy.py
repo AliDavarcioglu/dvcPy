@@ -1,1 +1,1 @@
-print("aslı")
+print(8+8)
